@@ -2,22 +2,28 @@
 Welcome to Alpha Rover's documentation!
 =======================================
 
+
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Documentation
    
-   meetings
-   inspirations
+   Meetings/meetings
+   Inspirations/inspirations
    base-kit
    expansion-kits
    projects
    miscellaneous
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 1
+   :caption: Beginner's guide
+   
+   Guides/beginner_guide
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Advanced user guide
+   
+   Guides/advanced_guide
+   Challenges/challenges
